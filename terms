@@ -1,0 +1,10 @@
+# Terms of Service
+
+This application helps TikTok users automate video uploads to their account using the TikTok Content Posting API.
+
+Users must authorize access via TikTok’s OAuth2 process before any uploads occur.
+
+We do not store user content, access tokens, or personal data. All uploads are explicitly triggered by the user.
+
+This application is intended to be used in compliance with TikTok’s Community Guidelines and applicable terms. 
+All content uploaded through the application must meet TikTok’s standards for acceptable use
