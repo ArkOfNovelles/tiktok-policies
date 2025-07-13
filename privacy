@@ -1,0 +1,9 @@
+# Privacy Policy
+
+We do not collect or store any user data.
+
+All API interactions occur via TikTok’s official OAuth2 process, and no credentials or tokens are retained after authorization.
+
+Uploaded content is sent directly to TikTok via secure requests and is not stored or viewed by this application.
+
+This tool is intended solely for user-authorized automation.
